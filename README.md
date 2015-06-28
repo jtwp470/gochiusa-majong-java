@@ -1,2 +1,10 @@
-# gochiusa-majong-java
-gochiusa-bot麻雀機能のjavaでの実装
+# gochiusa-majong-python
+gochiusa-bot麻雀機能のJavaでの実装を私が得意なPythonに書きなおしたものです.
+
+牌が5個以上入ると`check()`部でエラーとします.再度作りなおしを行ないます.
+
+そのとき,`used_random_num`というリストに選ばれたランダムな数が記録されているのでそれが表示されます.
+
+これらを元にうまい感じで検証してください
+
+実行結果を[結果](./result.txt)に載せておきますので自環境で実行する必要もありません.
